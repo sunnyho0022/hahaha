@@ -1,0 +1,121 @@
+[14:51:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:51:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:51:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:51:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:51:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:51:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:51:28] [main/INFO]: Reloading ResourceManager: Default
+[14:51:29] [Worker-Main-12/INFO]: Loaded 7 recipes
+[14:51:29] [Worker-Main-12/INFO]: Loaded 927 advancements
+[14:51:32] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[14:51:32] [Server thread/INFO]: Loading properties
+[14:51:32] [Server thread/INFO]: Default game type: SURVIVAL
+[14:51:32] [Server thread/INFO]: Generating keypair
+[14:51:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:51:32] [Server thread/INFO]: Using epoll channel type
+[14:51:32] [Server thread/INFO]: Preparing level "world"
+[14:51:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:51:40] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:51:41] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:51:41] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:51:42] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:51:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:51:43] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[14:51:43] [Worker-Main-14/INFO]: Preparing spawn area: 2%
+[14:51:44] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[14:51:44] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[14:51:45] [Worker-Main-15/INFO]: Preparing spawn area: 6%
+[14:51:45] [Worker-Main-13/INFO]: Preparing spawn area: 7%
+[14:51:46] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[14:51:46] [Worker-Main-8/INFO]: Preparing spawn area: 11%
+[14:51:47] [Worker-Main-15/INFO]: Preparing spawn area: 12%
+[14:51:47] [Worker-Main-11/INFO]: Preparing spawn area: 14%
+[14:51:48] [Worker-Main-13/INFO]: Preparing spawn area: 16%
+[14:51:48] [Worker-Main-10/INFO]: Preparing spawn area: 17%
+[14:51:49] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[14:51:49] [Worker-Main-8/INFO]: Preparing spawn area: 20%
+[14:51:50] [Worker-Main-13/INFO]: Preparing spawn area: 24%
+[14:51:50] [Worker-Main-13/INFO]: Preparing spawn area: 25%
+[14:51:51] [Worker-Main-8/INFO]: Preparing spawn area: 26%
+[14:51:51] [Worker-Main-11/INFO]: Preparing spawn area: 27%
+[14:51:52] [Worker-Main-10/INFO]: Preparing spawn area: 32%
+[14:51:52] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[14:51:53] [Worker-Main-8/INFO]: Preparing spawn area: 39%
+[14:51:53] [Worker-Main-14/INFO]: Preparing spawn area: 43%
+[14:51:54] [Worker-Main-11/INFO]: Preparing spawn area: 47%
+[14:51:54] [Worker-Main-14/INFO]: Preparing spawn area: 51%
+[14:51:55] [Worker-Main-14/INFO]: Preparing spawn area: 56%
+[14:51:55] [Worker-Main-11/INFO]: Preparing spawn area: 59%
+[14:51:56] [Worker-Main-11/INFO]: Preparing spawn area: 64%
+[14:51:56] [Worker-Main-11/INFO]: Preparing spawn area: 68%
+[14:51:57] [Worker-Main-8/INFO]: Preparing spawn area: 72%
+[14:51:57] [Worker-Main-9/INFO]: Preparing spawn area: 77%
+[14:51:58] [Worker-Main-14/INFO]: Preparing spawn area: 82%
+[14:51:58] [Worker-Main-15/INFO]: Preparing spawn area: 86%
+[14:51:59] [Worker-Main-10/INFO]: Preparing spawn area: 89%
+[14:51:59] [Worker-Main-15/INFO]: Preparing spawn area: 95%
+[14:52:00] [Server thread/INFO]: Time elapsed: 19483 ms
+[14:52:00] [Server thread/INFO]: Done (27.372s)! For help, type "help"
+[14:52:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:52:52] [Server thread/INFO]: <--[HERE]
+[14:52:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:52:53] [Server thread/INFO]: <--[HERE]
+[14:53:06] [Server thread/INFO]: Made HKben630 a server operator
+[14:53:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:53:46] [Server thread/INFO]: /difficult hard<--[HERE]
+[14:54:04] [Server thread/INFO]: The difficulty has been set to Hard
+[14:54:27] [User Authenticator #1/INFO]: UUID of player HKben630 is 914dabdc-7bc2-43d7-942f-fadceab09795
+[14:54:27] [Server thread/INFO]: HKben630[/42.98.201.159:62725] logged in with entity id 290 at (223.5, 63.0, -61.5)
+[14:54:27] [Server thread/INFO]: HKben630 joined the game
+[14:54:42] [Server thread/INFO]: [HKben630: Set own game mode to Creative Mode]
+[14:54:52] [Server thread/INFO]: [HKben630: Set own game mode to Survival Mode]
+[14:55:06] [Server thread/INFO]: HKben630 lost connection: Disconnected
+[14:55:06] [Server thread/INFO]: HKben630 left the game
+[16:13:03] [User Authenticator #2/INFO]: UUID of player Sukauto902 is adb91c2f-a6f6-49a3-8703-2f2f8c926375
+[16:13:03] [Server thread/INFO]: Sukauto902[/219.79.19.70:50629] logged in with entity id 419 at (214.5, 70.0, -56.5)
+[16:13:03] [Server thread/INFO]: Sukauto902 joined the game
+[16:14:10] [Server thread/INFO]: Sukauto902 has made the advancement [Stone Age]
+[16:16:07] [Server thread/INFO]: Sukauto902 lost connection: Disconnected
+[16:16:07] [Server thread/INFO]: Sukauto902 left the game
+[16:21:54] [User Authenticator #3/INFO]: UUID of player HKben630 is 914dabdc-7bc2-43d7-942f-fadceab09795
+[16:21:54] [Server thread/INFO]: HKben630[/42.98.201.159:63380] logged in with entity id 974 at (215.58235466374921, 68.0, -46.387736247994674)
+[16:21:54] [Server thread/INFO]: HKben630 joined the game
+[16:24:03] [User Authenticator #4/INFO]: UUID of player Sukauto902 is adb91c2f-a6f6-49a3-8703-2f2f8c926375
+[16:24:03] [Server thread/INFO]: Sukauto902[/219.79.19.70:50932] logged in with entity id 1229 at (143.30216339809715, 63.0, -110.55164932151948)
+[16:24:03] [Server thread/INFO]: Sukauto902 joined the game
+[16:24:14] [Server thread/INFO]: HKben630 has made the advancement [Stone Age]
+[16:24:32] [Server thread/INFO]: HKben630 has made the advancement [Getting an Upgrade]
+[16:24:35] [Server thread/INFO]: HKben630 lost connection: Disconnected
+[16:24:35] [Server thread/INFO]: HKben630 left the game
+[16:24:37] [Server thread/INFO]: Sukauto902 lost connection: Disconnected
+[16:24:37] [Server thread/INFO]: Sukauto902 left the game
+[16:25:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@74c8bcae[id=<null>,name=Fuaddck,properties={},legacy=false] (/219.78.143.46:50659) lost connection: Disconnected
+[16:25:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c8bf52a[id=<null>,name=Fuaddck,properties={},legacy=false] (/219.78.143.46:50661) lost connection: Disconnected
+[16:25:41] [User Authenticator #5/INFO]: UUID of player Fuaddck is f098b52a-55d2-4121-ba7d-5ef753fa9462
+[16:25:41] [Server thread/INFO]: Fuaddck[/219.78.143.46:50662] logged in with entity id 1361 at (217.5, 69.0, -66.5)
+[16:25:41] [Server thread/INFO]: Fuaddck joined the game
+[16:26:52] [Server thread/INFO]: Fuaddck was shot by Skeleton
+[16:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=199, y=81, z=-84} fx{x=210, y=71, z=-75}
+[16:28:44] [Server thread/INFO]: Fuaddck has made the advancement [Monster Hunter]
+[16:28:52] [Server thread/INFO]: Fuaddck has made the advancement [Stone Age]
+[16:28:56] [Server thread/INFO]: Fuaddck has made the advancement [Getting an Upgrade]
+[16:29:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:29:55] [Server thread/INFO]: <--[HERE]
+[16:29:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:29:57] [Server thread/INFO]: <--[HERE]
+[16:32:38] [Server thread/INFO]: Fuaddck was shot by Skeleton
+[16:35:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=207, y=67, z=-49} fx{x=215, y=66, z=-53}
+[16:35:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=207, y=67, z=-49} fx{x=212, y=69, z=-54}
+[16:36:32] [Server thread/INFO]: Fuaddck has made the advancement [Acquire Hardware]
+[16:36:59] [User Authenticator #6/INFO]: UUID of player HKben630 is 914dabdc-7bc2-43d7-942f-fadceab09795
+[16:36:59] [Server thread/INFO]: HKben630[/42.98.201.159:63707] logged in with entity id 2936 at (211.69999998807907, 67.0, -59.30000001192093)
+[16:36:59] [Server thread/INFO]: HKben630 joined the game
+[16:37:00] [User Authenticator #7/INFO]: UUID of player Sukauto902 is adb91c2f-a6f6-49a3-8703-2f2f8c926375
+[16:37:00] [Server thread/INFO]: Sukauto902[/219.79.19.70:51972] logged in with entity id 2944 at (156.26067603809406, 70.0, -93.05900038746118)
+[16:37:00] [Server thread/INFO]: Sukauto902 joined the game
+[16:37:01] [Server thread/INFO]: Fuaddck has made the advancement [Suit Up]
+[16:37:39] [Server thread/INFO]: HKben630 lost connection: Disconnected
+[16:37:39] [Server thread/INFO]: HKben630 left the game
+[16:43:06] [Server thread/INFO]: Fuaddck has made the advancement [Not Today, Thank You]
+[16:43:52] [Server thread/INFO]: Sukauto902 lost connection: Disconnected
+[16:43:52] [Server thread/INFO]: Sukauto902 left the game
